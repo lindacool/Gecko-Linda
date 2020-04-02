@@ -30,9 +30,9 @@
     "bcryptjs": "^2.4.3",
     "c": "^0.1.0",
     "cookie-parser": "^1.4.4",
-    "node-sass-middleware": "^0.11.0",
     "crypto": "^1.0.1",
     "css": "^2.2.4",
+    "dotenv": "^8.2.0",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
@@ -41,9 +41,11 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.2",
     "node-sass": "^4.13.1",
+    "node-sass-middleware": "^0.11.0",
     "nodemailer": "^6.4.5",
     "nodemailer-sendgrid-transport": "^0.2.0",
-    "scss": "^0.2.4"
+    "scss": "^0.2.4",
+    "stripe": "^8.38.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
